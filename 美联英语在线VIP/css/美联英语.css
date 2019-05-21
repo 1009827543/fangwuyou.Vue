@@ -1,0 +1,110 @@
+*{
+}
+.kuang{
+ width: 100%;
+ height: 100%;
+}
+.top{
+	width: 100%;
+	
+}
+.top-top{
+	width: 100%;
+	background:  #8C8C8C;
+}
+.top-foot{
+	width: 100%;
+	background:  #222222;
+}
+.foot{
+	width: 100%;
+}
+.foot-top{
+	position:relative;
+}
+.foot-kuang{
+	width: 100%;
+	background:  #222222;
+}
+.section{
+	width: 100%;
+}
+.section-top{
+	width: 100%;
+}
+.section-top-top{
+	width: 100%;
+	background: white;
+}
+.section-top-foot{
+	width: 100%;
+}
+.yb {
+	width: 150px;
+	height: 40px;
+	border: 1px solid;
+	background-color: yellow;
+	margin: 0 auto;
+}
+@media only screen and (max-width:768px) {
+	.aa{
+		margin-top: 130px;
+	}
+	.bb{
+		margin-top: -95px;
+	}
+}
+@media only screen and (min-width:768px) {
+	.aa{
+		margin-top: 200px;
+	}
+	.bb{
+		margin-top:-140px;
+	}
+}
+.section_section{
+	width: 100%;
+}
+@media only screen and (max-width:948px) {
+	.cc{
+		margin-left: 135px;
+	}
+}
+@media only screen and (max-width:768px) {
+	.cc{
+			margin-left: 0px;
+	}
+}
+.section_section1{
+	width: 100%;
+}
+.section-secrion3{
+	width: 100%;
+}
+@media only screen and (min-width:975px) {
+	.dd{
+		width: 250px;
+	}
+}
+@media only screen and (max-width:975px) {
+	.dd{
+		width: 100%;
+	}
+}
+@media only screen and (min-width:975px) {
+	.ee{
+		width: 220px;
+	}
+}
+@media only screen and (max-width:975px) {
+	.ee{
+		width: 100%;
+	}
+}
+.section_section5{
+	width: 100%;
+}
+.footer{
+	width: 100%;
+	background: #222222;
+}
